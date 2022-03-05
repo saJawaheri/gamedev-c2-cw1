@@ -1,0 +1,18 @@
+﻿using System;
+
+namespace c2cw1
+{
+    class MainClass
+    {
+        public static void Main(string[] args)
+        {
+            string name = "ahmed";
+            int age = 19;
+            string superpower = "flaying and super fast";
+            int speed = 20;
+            Console.WriteLine("my name is {0} my age {1} my superpower is {2}", name ,age ,superpower );
+                 
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
